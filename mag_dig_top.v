@@ -1,4 +1,4 @@
-// DIGITAL CHAIN (! INCOMPLETE !)
+// DIGITAL CHAIN (! INCOMPLETE !) - TOP LEVEL INTEGRATION FILE
 
 module mag_dig_top #(
   parameter ADC_BITS=10,
