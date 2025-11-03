@@ -1,4 +1,5 @@
 // bitwise CRC-8 with polynomial x^8 + x^2 + x + 1 (0x07)
+// this file is not synthesizable as is
 module crc8_poly07 (
   input        clk,
   input        rst_n,
